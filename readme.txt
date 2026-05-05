@@ -25,7 +25,7 @@ Instead of just following tutorials, I’m applying what I learn to something me
 
 ## Status
 
-🚧 Work in progress — actively being developed and improved
+Work in progress — actively being developed and improved
 
 ## Future Plans
 
