@@ -5,12 +5,12 @@ on:
   pull_request:
 
 jobs:
-  build:
+  validate-html:
     runs-on: ubuntu-latest
 
     steps:
       - name: Get code
         uses: actions/checkout@v4
 
-      - name: Basic check
-        run: echo "CI is passing!"
+      - name: HTML validation
+        uses: Cyb3r-Jak3/html5validator-action@v7.2.0
