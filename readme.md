@@ -1,3 +1,5 @@
+[![CI](https://github.com/EdwinECF/faith_tabernacle_website/actions/workflows/ci.yml/badge.svg)](https://github.com/EdwinECF/faith_tabernacle_website/actions/workflows/ci.yml)
+
 # Church Website Project (In Progress)
 
 This project is a custom-built website for my church, created from scratch using HTML, CSS, and JavaScript.
